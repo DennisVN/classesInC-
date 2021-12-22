@@ -1,0 +1,17 @@
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\bin\Debug\net6.0\classesExercise.exe
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\bin\Debug\net6.0\classesExercise.deps.json
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\bin\Debug\net6.0\classesExercise.runtimeconfig.json
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\bin\Debug\net6.0\classesExercise.dll
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\bin\Debug\net6.0\ref\classesExercise.dll
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\bin\Debug\net6.0\classesExercise.pdb
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\obj\Debug\net6.0\classesExercise.csproj.AssemblyReference.cache
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\obj\Debug\net6.0\classesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\obj\Debug\net6.0\classesExercise.AssemblyInfoInputs.cache
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\obj\Debug\net6.0\classesExercise.AssemblyInfo.cs
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\obj\Debug\net6.0\classesExercise.csproj.CoreCompileInputs.cache
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\obj\Debug\net6.0\classesExercise.csproj.CopyComplete
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\obj\Debug\net6.0\classesExercise.dll
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\obj\Debug\net6.0\ref\classesExercise.dll
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\obj\Debug\net6.0\classesExercise.pdb
+C:\Users\BEAUCOUPDARGENT\Documents\VS CODE\classesInCSharp\classesExercise\obj\Debug\net6.0\classesExercise.genruntimeconfig.cache
