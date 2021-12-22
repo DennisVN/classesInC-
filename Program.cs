@@ -22,13 +22,11 @@ namespace ClassesExercise {
             Json = System.Text.Json.JsonSerializer.Serialize(myBook3);
             // Console.WriteLine(JsonBook.ToString());
             Console.WriteLine(Json);
-            printAnimal(new Dog("pukkie"));
-            printAnimal(new Snake("ciske"));
-            printAnimal(new Goose("hans"));
+            // printAnimal(new Dog("pukkie"));
+            // printAnimal(new Snake("ciske"));
+            // printAnimal(new Goose("hans"));
 
             // LoadNewXml();
-            
-
             Console.ReadLine(); 
         }
 
@@ -51,10 +49,10 @@ namespace ClassesExercise {
             // Console.ReadKey();
         }
 
-        public static void printAnimal(IAnimal animal) 
-        {
-            Console.WriteLine(animal.name + " has " + animal.numberOfPaws.ToString() + " paws");
-        }
+        // public static void printAnimal(IAnimal animal) 
+        // {
+        //     Console.WriteLine(animal.name + " has " + animal.numberOfPaws.ToString() + " paws");
+        // }
 
     }
 }
