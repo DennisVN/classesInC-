@@ -30,17 +30,21 @@ namespace ClassesExercise {
             // newTrack4.Title = "Sigaretten";
             // Console.WriteLine(newTrack4.Title + " - " + newTrack4.Artist);
             #endregion
+            
             #region Car
             Car car1 = new Car("Lambo", "Bright Orange");
             Car car2 = new Car("Golfke", "Matte Black");
             Car car3 = new Car("Supra", "Pearlescent Salmon Pink");
-            Console.WriteLine(car1.model);
+            Console.WriteLine("A " + car1.color + " " + car1.model + " has joined.");
+            Console.WriteLine("A " + car2.color + " " + car2.model + " has joined.");
+            Console.WriteLine("A " + car3.color + " " + car3.model + " has joined.");
             #endregion 
             
-            printAnimal(new Snake("boopsnoot"));
-            printAnimal(new Dog("doggo"));
-            printAnimal(new Goose("mad bird"));
-            
+            #region Animals
+            // printAnimal(new Snake("boopsnoot"));
+            // printAnimal(new Dog("doggo"));
+            // printAnimal(new Goose("mad bird"));
+            #endregion
             Console.ReadLine(); 
         }
 
