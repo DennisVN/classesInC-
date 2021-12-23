@@ -1,11 +1,15 @@
 ﻿using System;
 using System.Xml;
 using Newtonsoft.Json.Linq;
+// STATIC
+// PUBLIC 
+// PRIVATE
+// VOID 
 
 namespace ClassesExercise {
     class Program {
         static void Main(string[] args){
-            #region 
+            #region Track
             // Create New Track Object (Instance of class) 
             // Track track1 = new Track();
             // Console.WriteLine(track1);
@@ -26,16 +30,27 @@ namespace ClassesExercise {
             // newTrack4.Title = "Sigaretten";
             // Console.WriteLine(newTrack4.Title + " - " + newTrack4.Artist);
             #endregion
-
-            Car car1 = new Car("Lambo");
-            Car car2 = new Car("Golfke");
-            Car car3 = new Car("Supra");
-            Console.WriteLine(Car.numberOfCars);
-            Car.StartRace();
-
+            #region Car
+            // Car car1 = new Car("Lambo");
+            // Car car2 = new Car("Golfke");
+            // Car car3 = new Car("Supra");
+            // Console.WriteLine(car1);
+            // Console.WriteLine(Car.numberOfCars);
+            // Car.StartRace();
+            #endregion 
+            
+            printAnimal(new Snake("boopsnoot"));
+            printAnimal(new Dog("doggo"));
+            printAnimal(new Goose("mad bird"));
+            
             Console.ReadLine(); 
         }
 
-    }
+        
+        public static void printAnimal(IAnimal animal)
+        {
+            Console.WriteLine(animal.name + " has " + animal.numberOfPaws.ToString() + " paws .");
+        }
 
+    }
 }

@@ -1,7 +1,8 @@
+namespace ClassesExercise{
     class Car
     {
         string model;
-        // Make static so only class has acces and no 1 Object has ownership of it
+        // Make static so class has acces and no 1 Object has ownership of it
         public static int numberOfCars;
         
         public Car(String model)
@@ -15,3 +16,4 @@
             Console.WriteLine("The race has begun ! ! ! ");
         }
     }
+}
