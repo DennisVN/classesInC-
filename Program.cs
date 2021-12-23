@@ -32,12 +32,12 @@ namespace ClassesExercise {
             #endregion
             
             #region Car
-            // Car car1 = new Car("Lambo", "Bright Orange");
-            // Car car2 = new Car("Golfke", "Matte Black");
-            // Car car3 = new Car("Supra", "Pearlescent Salmon Pink");
-            // Console.WriteLine("A " + car1.color + " " + car1.model + " has joined.");
-            // Console.WriteLine("A " + car2.color + " " + car2.model + " has joined.");
-            // Console.WriteLine("A " + car3.color + " " + car3.model + " has joined.");
+            Car car1 = new Car("Lambo", "Bright Orange");
+            Car car2 = new Car("Golfke", "Matte Black");
+            Car car3 = new Car("Supra", "Pearlescent Salmon Pink");
+            Console.WriteLine("A " + car1.color + " " + car1.model + " has joined.");
+            Console.WriteLine("A " + car2.color + " " + car2.model + " has joined.");
+            Console.WriteLine("A " + car3.color + " " + car3.model + " has joined.");
             
             // Non Static way :
             Supra newSupra = new Supra("Toyota GR Supra", "Pearlescent Salmon Pink");
@@ -81,7 +81,7 @@ namespace ClassesExercise {
 
         public static void printCar(ICar car)
         {
-            Console.WriteLine("A new " + car.name + " in " + car.color + 
+            Console.WriteLine("A new " + car.doors + "-door " + car.name + " in " + car.color + 
             " has joined ." + "\n\r" + "Top Speed : " + car.maxSpeed + " km/h");
         }
     }

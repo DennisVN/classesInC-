@@ -10,6 +10,10 @@ namespace ClassesExercise {
             return 250;
         }}
 
+        public int doors{get{
+            return 2;
+        }}
+
         public string name { get; set; }
         public string color { get; set; }
     }
