@@ -31,12 +31,10 @@ namespace ClassesExercise {
             // Console.WriteLine(newTrack4.Title + " - " + newTrack4.Artist);
             #endregion
             #region Car
-            // Car car1 = new Car("Lambo");
-            // Car car2 = new Car("Golfke");
-            // Car car3 = new Car("Supra");
-            // Console.WriteLine(car1);
-            // Console.WriteLine(Car.numberOfCars);
-            // Car.StartRace();
+            Car car1 = new Car("Lambo", "Bright Orange");
+            Car car2 = new Car("Golfke", "Matte Black");
+            Car car3 = new Car("Supra", "Pearlescent Salmon Pink");
+            Console.WriteLine(car1.model);
             #endregion 
             
             printAnimal(new Snake("boopsnoot"));
