@@ -1,5 +1,6 @@
 namespace ClassesExercise{
-    class Car
+    // Non Static Class -> can be instantiated
+    public class Car
     {
         public string model;
         public string color; 
